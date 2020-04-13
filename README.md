@@ -12,3 +12,9 @@ My course notes can be found [here](https://github.com/CameronPaton/Practical-JS
 #### Preview
 
 A preview of the finished product can be seen below:
+
+![Preview](https://github.com/CameronPaton/Images-Portfolio/blob/master/Project-Watch_and_Code.JPG?raw=true)
+
+#### Project
+
+The finished project can be found [here](https://codepen.io/CyberTiger008/full/MQRzJL).
